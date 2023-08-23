@@ -1,0 +1,64 @@
+/// CORE–3 PRACTICAL: PROGRAMMING USING C++ LAB ///
+
+01. Write a Program to find greatest among three numbers using nested if…else  statement.
+
+02. Write a Program to check a number is prime or not.
+
+03. Write a Program to find the GCD and LCM of two numbers.
+
+04. Write a program to print the result for following series: 1! + 2! + 3! + . . .
+
+05. Write a program to print multiplication table.
+
+06. Write a Program for Swapping of two numbers using pass by value.
+
+07. Write a Program for Swapping of two numbers using pass by address.
+
+08. Write a Program for Swapping of two numbers using pass by reference.
+
+09. Write a Program to find sum of four numbers using default argument passing.
+
+10. Write a Program to find square and cube of a number using inline function.
+
+11. Write a Program to find the factorial of a number.
+
+12. Write a Program to find reverse of a number and print sum and product of digits.
+
+13. Write a program to find sum of four numbers using default argument passing in member function.
+
+14. Write a Program to find area of circle, triangle and rectangle using function overloading.
+
+15. Write a program to distinguish the properties of static and non-static data members.
+
+16. Write a program to show the method of accessing static private member function.
+
+17. Write a program to show the ways of calling constructors and destructors.
+
+18. Write a program to perform ++ operator overloading using member function.
+
+19. Write a program to perform ++ operator overloading using friend function.
+
+20. Write a program to perform + operator overloading for two complex number addition.
+
+21. Write a program to perform + operator overloading for string concatenation.
+
+22. Write a program to perform single inheritance.
+
+23. Write a program to perform multiple inheritance.
+
+24. Write a program to create an integer array using new operator and find the sum and  average of array elements.
+
+25. Write a program to implement virtual destructor.
+
+26. Create the Person class.
+    Create some objects of this class (by taking information from  the user).
+    Inherit the class Person to create two classes Teacher and Student class. 
+    Maintain the respective information in the classes and create, display and delete  objects of these two classes (Use Runtime Polymorphism).
+
+27. Write a program to Copy the contents of one file to other.
+
+28. Write a program to check string is palindrome or not.
+
+29. Write a program to Fibonaccy series numbers.
+
+30. Write a program to check a number is Amstrong or not..
